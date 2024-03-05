@@ -30,7 +30,8 @@ Preste atenção ao detalhe da concatenação de uma string "andar" junto à col
 
 * 1.    Selecionar todos os Professores com suas respectivas disciplinas e os demais Professores que não lecionam disciplina alguma.
 
-* 1.    Selecionar todos os nomes de professores que tenham ministrado disciplina para alunos que sejam do Estado do Piaui,
+* 2.    Selecionar todos os nomes de professores que tenham ministrado disciplina para alunos que sejam do Estado do Piaui,
 cujo a classe tenha sido no terceiro andar.
- E-    Exercícios de SELECT (USE Clausula IN e/ou SUBSelect).
+
+ * E-    Exercícios de SELECT (USE Clausula IN e/ou SUBSelect).
 Não pode usar junção.
