@@ -26,7 +26,7 @@
 Preste atenção ao detalhe da concatenação de uma string "andar" junto à coluna do número do andar (Apenas para estética do resultado).
 
 
-# D- Exercícios de SELECT (OUTER JOIN)
+# D-Exercícios de SELECT (OUTER JOIN)
 
 * 1.    Selecionar todos os Professores com suas respectivas disciplinas e os demais Professores que não lecionam disciplina alguma.
 
